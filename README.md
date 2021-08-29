@@ -2,7 +2,7 @@
 # Mobile Application Penetration Testing Cheat Sheet
 
 
-The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics and checklist, which is mapped OWASP Mobile Risk Top 10 for conducting pentest.
+The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics and checklist.
 
 - [Mobile Application Security Testing Distributions](#mobile-application-security-testing-distributions)
 - [All-in-one Mobile Security Frameworks](#all-in-one-mobile-security-frameworks)
